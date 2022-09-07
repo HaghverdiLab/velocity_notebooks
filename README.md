@@ -9,7 +9,7 @@ This repository contains two sets of notebooks:
 
 ### Requirements
 
-The toolbox for eco-velo and $\kappa$-velo has been made available as a python package. This package, with additional information on installation can be found [here](https://github.com/ValerieMarot/velocity_package).
+The toolbox for eco-velo and $\kappa$-velo has been made available as a python package. This package, with additional information on installation can be found [here](https://github.com/HaghverdiLab/velocity_package).
 
 ### References
 
@@ -18,4 +18,4 @@ Valérie Marot-Lassauzaie, Brigitte Joanne Bouman, et al. [Towards reliable quan
 
 ### Support
 
-If you found a bug, or have a question please open an [issue](https://github.com/bjbouman/cell-state-velocities/issues).
+If you found a bug, or have a question please open an [issue](https://github.com/HaghverdiLab/velocity_notebooks/issues).
